@@ -1,4 +1,4 @@
-# Covid-Analysis
+# COVID-19 Data Analysis and Worldwide Happiness Report Visualization
 Analyzed COVID-19 data to compare confirmed cases and infection rates across different countries over time, and visualized factors from the Worldwide Happiness Report
 
 Preprocessed and cleaned COVID-19 datasets, addressing missing values, inconsistencies, and outliers.
